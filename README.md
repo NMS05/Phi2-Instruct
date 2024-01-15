@@ -14,6 +14,7 @@ The Phi2-Instruct model is trained on the [mosaicml/dolly_hhrlhf](https://huggin
 * Phi2_Instruct.ipynb - Jupyter notebook for inference with Phi2-Instruct.
 
 ## Sample Output
+<img src=https://github.com/NMS05/Phi2-Instruct/blob/main/inference.png width="950" height="300">
 
 ## Reference
 [DataCamp - How to train a LLM?](https://www.datacamp.com/tutorial/how-to-train-a-llm-with-pytorch)
